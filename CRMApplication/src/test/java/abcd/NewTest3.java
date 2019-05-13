@@ -26,4 +26,10 @@ public class NewTest3 {
 	  System.out.println("I am in test12");
 	 
   }
+  
+  @Test
+  public void test13() {
+	  System.out.println("I am in test13");
+	 
+  }
 }
